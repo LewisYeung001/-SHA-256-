@@ -4,4 +4,5 @@
 调用方法
 
 import NSHA256
+
 NSHA256.hash1(str)  str为字符串
