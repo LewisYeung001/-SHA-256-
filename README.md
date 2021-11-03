@@ -1,4 +1,6 @@
 # -SHA-256-
+A optimise of SHA256
+
 对SHA256算法的改进优化
 
 调用方法
